@@ -4,4 +4,4 @@ Technologies used: Nunit3, Windows Forms, C#.
 
 To create the application, .Net5 and .NetFramework must be installed on your computer.
 
-Run the compiled Process Manager UI.exe to run the application.
+Run the compiled ProcessManagerUI.exe to run the application.
